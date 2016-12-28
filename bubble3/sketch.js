@@ -7,7 +7,7 @@ var bubbles = [];
 
 function setup() {
 
-  createCanvas(window.innerWidth,window.innerHeight);
+  createCanvas(windowWidth,windowHeight);
   for (var i = 0; i < 100; i++) {
     bubbles[i] = new Bubble();
   }

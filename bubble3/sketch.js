@@ -1,8 +1,3 @@
-/* 
-6.4 p5.js The Constructor Function 
-Code for https://vimeo.com/channels/learningp5js/141211393
-*/
-
 var bubbles = [];
 
 function setup() {
